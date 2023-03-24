@@ -27,5 +27,5 @@ function inputCon() {
 }
 
 function calcTerfogat(aoldal,boldal,coldal) {
-    return aoldal/boldal;
+    return aoldal*boldal*coldal;
 }
